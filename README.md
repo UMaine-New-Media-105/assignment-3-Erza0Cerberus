@@ -12,5 +12,13 @@ For this assignment we were to edit our original catcher so that when/if the mou
 For my catcher I made it so when the mouse is pressed the eyes and outer body of my catcher change colors!
 
 Drop Seed
-Sketch Link;https://editor.p5js.org/Cerberus.Erza/sketches/vt7Aq8Jg1
+Sketch Link; https://editor.p5js.org/Cerberus.Erza/sketches/vt7Aq8Jg1
 For this assignment we were asked to make a "seed" that dropped at random from the top of the screen. To do this I used the if command to create my seed and used the "random" to allow my seed to fall at random.
+
+Click To Drop Seed
+Sketch Link; https://editor.p5js.org/Cerberus.Erza/sketches/vt7Aq8Jg1
+For this part of the assignment we were asked to change our code so that our seed dropped when the mouse is clicked instead of on it's own. To do this i simply switched the code that allowed the seed to drop with if mouseisclicked seedFalling = true.
+
+Catch The Seed
+Sketch Link; https://editor.p5js.org/Cerberus.Erza/sketches/vt7Aq8Jg1
+For the last part of the assignment we were to make it so something about the sprite changes when the seed is caught by said sprite. For my sprite I made it so when there is a collision between the seed and sprite the sprite's eyes and main body change color.
